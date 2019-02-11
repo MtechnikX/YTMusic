@@ -21,3 +21,4 @@ We really need your feedback, you definitely request which features you want in 
 ![](https://img.shields.io/github/search/Mtechnik/YTMusic/music.svg?style=flat-square)
 
 
+![](https://img.shields.io/twitter/url/Mtechnik/https://github.com/Mtechnik/YTMusic.svg?logo=twitter&style=flat-square)
