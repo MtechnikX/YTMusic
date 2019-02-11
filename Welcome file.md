@@ -9,7 +9,7 @@ YTMusic v1 is here.
 Thanks for downloading and trying YTMusic.
 Whats on this version? Check it out below
 *  Authentication: You can login via Google Login, using your tablet or wireless phone
-![](https://www.mediafire.com/convkey/4d54/twvbzdbe76ad4urzg.jpg?size_id=4)
+                  ![](https://www.mediafire.com/convkey/4d54/twvbzdbe76ad4urzg.jpg?size_id=4)
 
 *  Media Control: The media control is located at the bottom as you would see on https://music.youtube.com 
 ![](https://www.mediafire.com/convkey/a1c2/di2l6i11qp7f6hmzg.jpg?size_id=5)
@@ -21,5 +21,5 @@ Plus much more, listen to all your favorite music right on your desktop or your 
 We really need your feedback, you definitely request which features you want non the next version. We really appreciate  you!!!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3ODc0MTQ5NV19
+eyJoaXN0b3J5IjpbNzYyMzEwODM5XX0=
 -->
