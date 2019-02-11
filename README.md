@@ -2,7 +2,7 @@
 YouTube Music is a music streaming service developed by YouTube. YTMusic Electron App is based on the YouTube Music Website, all credits and rights are reserved
 
 YTMusic ![](https://img.shields.io/github/release-pre/mtechnik/ytmusic.svg?style=flat-square) is here.
-![](https://img.shields.io/github/languages/top/mtechnik/ytmusic.svg?style=flat-square)   ![](https://img.shields.io/github/repo-size/mtechnik/ytmusic.svg?style=flat-square) ![](https://img.shields.io/github/issues/Mtechnik/YTMusic.svg?style=flat-square) ![](https://img.shields.io/github/license/Mtechnik/YTMusic.svg?style=flat-square) ![](https://img.shields.io/twitter/url/Mtechnik/https://github.com/Mtechnik/YTMusic.svg?style=flat-square)
+![](https://img.shields.io/github/languages/top/mtechnik/ytmusic.svg?style=flat-square)   ![](https://img.shields.io/github/repo-size/mtechnik/ytmusic.svg?style=flat-square) ![https://github.com/Mtechnik/YTMusic/issues](https://img.shields.io/github/issues/Mtechnik/YTMusic.svg?style=flat-square) ![https://github.com/Mtechnik/YTMusic/blob/master/LICENSE](https://img.shields.io/github/license/Mtechnik/YTMusic.svg?style=flat-square) ![https://twitter.com/intent/tweet?hashtags=youtube&original_referer=https://github.com/Mtechnik/YTMusic&ref_src=twsrc%5Etfw&related=twitterapi%2Ctwitter&text=Check out this awesome music app&tw_p=tweetbutton&url=https://github.com/Mtechnik/YTMusic%2F](https://img.shields.io/twitter/url/Mtechnik/https://github.com/Mtechnik/YTMusic.svg?style=flat-square)
 
 Thanks for downloading and trying YTMusic.
 Whats on this version? Check it out below
