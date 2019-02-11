@@ -1,10 +1,8 @@
-
-
 # YTMusic
 YouTube Music is a music streaming service developed by YouTube. YTMusic Electron App is based on the YouTube Music Website, all credits and rights are reserved
 
-YTMusic v1 is here.
-[![Build Status](https://travis-ci.org/Mtechnik/YTMusic.svg?branch=master)](https://travis-ci.org/Mtechnik/YTMusic) [![GitHub version](https://badge.fury.io/gh/Mtechnik%2FYTMusic.svg)](https://badge.fury.io/gh/Mtechnik%2FYTMusic) [![GitHub license](https://github.com/Mtechnik/YTMusic/blob/master/LICENSE)](https://img.shields.io/apm/l/YTMusic.svg?style=flat-square)
+YTMusic ![](https://img.shields.io/github/release-pre/mtechnik/ytmusic.svg?style=flat-square) is here.
+![](https://img.shields.io/github/languages/top/mtechnik/ytmusic.svg?style=flat-square)   ![](https://img.shields.io/github/repo-size/mtechnik/ytmusic.svg?style=flat-square) ![](https://img.shields.io/github/issues/Mtechnik/YTMusic.svg?style=flat-square) ![](https://img.shields.io/github/license/Mtechnik/YTMusic.svg?style=flat-square) ![](https://img.shields.io/twitter/url/Mtechnik/https://github.com/Mtechnik/YTMusic.svg?style=flat-square)
 
 Thanks for downloading and trying YTMusic.
 Whats on this version? Check it out below
@@ -20,6 +18,6 @@ Whats on this version? Check it out below
 Plus much more, listen to all your favorite music right on your desktop or your laptop
 We really need your feedback, you definitely request which features you want in the next version. We really appreciate  you!!!
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NzQ0NzgxNV19
--->
+![](https://img.shields.io/github/search/Mtechnik/YTMusic/music.svg?style=flat-square)
+
+
