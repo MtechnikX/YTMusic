@@ -4,7 +4,7 @@
 YouTube Music is a music streaming service developed by YouTube. YTMusic Electron App is based on the YouTube Music Website, all credits and rights are reserved
 
 YTMusic v1 is here.
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) [![GitHub version](https://badge.fury.io/gh/Mtechnik%2FYTMusic.svg)](https://badge.fury.io/gh/Mtechnik%2FYTMusic) ![](https://img.shields.io/apm/l/YTMusic.svg?style=flat-square)
+[![Build Status](https://travis-ci.org/Mtechnik/YTMusic?branch=master)](https://travis-ci.org/Mtechnik/YTMusic) [![GitHub version](https://badge.fury.io/gh/Mtechnik%2FYTMusic.svg)](https://badge.fury.io/gh/Mtechnik%2FYTMusic) ![](https://img.shields.io/apm/l/YTMusic.svg?style=flat-square)
 
 Thanks for downloading and trying YTMusic.
 Whats on this version? Check it out below
