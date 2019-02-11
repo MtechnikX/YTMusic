@@ -18,8 +18,8 @@ Whats on this version? Check it out below
 ![](http://www.mediafire.com/convkey/3356/fg756f9a8dhu9oizg.jpg?size_id=4)
 
 Plus much more, listen to all your favorite music right on your desktop or your laptop
-We really need your feedback, you definitely request which features you want non the next version. We really appreciate  you!!!
+We really need your feedback, you definitely request which features you want in the next version. We really appreciate  you!!!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYyMzEwODM5XX0=
+eyJoaXN0b3J5IjpbLTc0NzQ0NzgxNV19
 -->
