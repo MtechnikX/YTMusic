@@ -1,4 +1,4 @@
 language: node_js
 rvm:
  - 4.0.4
- - electron
+ - node
